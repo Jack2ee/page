@@ -1,0 +1,18 @@
+@import "bootstrap";
+
+body {
+    background-image: url("http://cfile4.uf.tistory.com/image/27337B3653B645BC27DAE7");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.photo {
+    height: 400px;
+    width: 550px;
+    -webkit-filter: grayscale(50%);
+    filter: grayscale(50%);
+}
+
+.field {
+    width: 200px;
+}
